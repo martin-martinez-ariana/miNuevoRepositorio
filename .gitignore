@@ -1,0 +1,2 @@
+#Queremos que se suban los .bak y no los .class
+*.class
