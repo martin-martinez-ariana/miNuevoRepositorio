@@ -4,6 +4,9 @@ import java.util.ArrayList;
 
 public class Ejercicio4 {
     public static int aciertaNumeros(int intentosMax){
+    	System.out.println("Esto es una prueba");
+    	System.out.println("Estoy modificando un archivo en otra rama");
+    
         final int NUMERO_SECRE=4;
         int num=0,intentos=0, numUsu;
         do{
