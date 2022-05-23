@@ -5,6 +5,7 @@ public class Ejercicio1 {
 
     public static int mayorDeCuatroEj2(int a, int b, int c, int d)
     {
+    	System.out.println("Hola, esto es una prueba");
         if(a>b)
             if(a>c)
                 if(a>d)
